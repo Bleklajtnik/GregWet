@@ -3,7 +3,7 @@
 .taste-skill/
 
 # oryginalny film z telefonu (gotowe wersje są w site/media/)
-media/
+/media/
 
 # zainstalowane skille i ustawienia Claude Code (lokalne dla tego komputera)
 .agents/
