@@ -1,0 +1,9 @@
+{
+  "path": "/oferta/",
+  "title": "Oferta - GregWET lecznica weterynaryjna",
+  "description": "",
+  "h1": "Nasza oferta",
+  "date": null,
+  "cover": null,
+  "html": "<h2>Nasza oferta</h2>\n<img src=\"/img/old/Chirurgia.webp\" alt=\"Chirurgia\" width=\"500\" height=\"500\" loading=\"lazy\">\n<h3>Chirurgia</h3>\n<img src=\"/img/old/Okulistyka.webp\" alt=\"\" width=\"500\" height=\"500\" loading=\"lazy\">\n<h3>Okulistyka weterynaryjna</h3>\n<img src=\"/img/old/Ortopedia.webp\" alt=\"\" width=\"500\" height=\"500\" loading=\"lazy\">\n<h3>Ortopedia</h3>\n<img src=\"/img/old/Dermatologia.webp\" alt=\"\" width=\"500\" height=\"500\" loading=\"lazy\">\n<h3>Dermatologia</h3>\n<img src=\"/img/old/Kardiologia.webp\" alt=\"\" width=\"500\" height=\"500\" loading=\"lazy\">\n<h3>Kardiologia</h3>\n<img src=\"/img/old/Regeneracja.webp\" alt=\"\" width=\"500\" height=\"500\" loading=\"lazy\">\n<h3>Medycyna regeneracyjna</h3>\n<img src=\"/img/old/Profilaktyka.webp\" alt=\"\" width=\"500\" height=\"500\" loading=\"lazy\">\n<h3>Profilaktyka</h3>\n<img src=\"/img/old/Badania.webp\" alt=\"\" width=\"500\" height=\"500\" loading=\"lazy\">\n<h3>Badania laboratoryjne</h3>\n<img src=\"/img/old/Radiologia.webp\" alt=\"\" width=\"500\" height=\"500\" loading=\"lazy\">\n<h3>Badania radiologiczne</h3>\n<img src=\"/img/old/Ultrasonograf.webp\" alt=\"\" width=\"500\" height=\"500\" loading=\"lazy\">\n<h3>Badania ultrasonograficzne</h3>\n<a href=\"/oferta/endoskopia-zwierzat-krakow/\"><img src=\"/img/old/Endoskopia.webp\" alt=\"\" width=\"500\" height=\"500\" loading=\"lazy\"></a>\n<h3><a href=\"/oferta/endoskopia-zwierzat-krakow/\">Endoskopia</a></h3>\n<img src=\"/img/old/Bank-krwi.webp\" alt=\"\" width=\"500\" height=\"500\" loading=\"lazy\">\n<h3>Bank krwi</h3>"
+}
